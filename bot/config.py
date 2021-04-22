@@ -18,7 +18,6 @@ class BotCommands:
   Clone = ['copy', 'clone']
   Delete = ['delete', 'del']
   EmptyTrash = ['emptyTrash']
-  YtDl = ['ytdl']
 
 class Messages:
     START_MSG = "**Hello there {}.**\n__I am a Bot that can upload your file directly to your Google Drive.You can use me to upload any file / video to Google Drive from direct link or Telegram Files.__\n__Before I help you please Authorize me to your Google Drive /auth.__"
